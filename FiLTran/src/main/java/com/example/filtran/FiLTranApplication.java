@@ -9,5 +9,5 @@ public class FiLTranApplication {
     public static void main(String[] args) {
         SpringApplication.run(FiLTranApplication.class, args);
     }
-    int a;
+    int a,b;
 }
