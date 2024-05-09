@@ -14,4 +14,5 @@ public class FiLTranApplication {
     int e ;
     double t;
     int k;
+    String p = "i love FTP";
 }
