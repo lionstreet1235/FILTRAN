@@ -10,4 +10,5 @@ public class FiLTranApplication {
         SpringApplication.run(FiLTranApplication.class, args);
     }
     int a,b;
+    int c,d;
 }
