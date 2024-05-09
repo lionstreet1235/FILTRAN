@@ -13,4 +13,5 @@ public class FiLTranApplication {
     int c,d;
     int e ;
     double t;
+    int k;
 }
