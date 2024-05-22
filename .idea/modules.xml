@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/FILTRAN.iml" filepath="$PROJECT_DIR$/.idea/FILTRAN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FiLTran.iml" filepath="$PROJECT_DIR$/.idea/modules/FiLTran.iml" />
     </modules>
   </component>
 </project>
